@@ -1,0 +1,189 @@
+﻿id,name,tier,scope,description,stacking
+syringe,Soldier's Syringe,Common,All weapons,+15% attack speed (+15% per stack).,+15% attack speed per stack.
+glasses,Lens-Maker's Glasses,Common,All weapons,+10% crit chance (+10% per stack).,+10% crit chance per stack.
+tritip,Tri-Tip Dagger,Common,All weapons,10% (+10% per stack) chance on hit to bleed for 240% damage over 3s.,+10% bleed chance per stack.
+crowbar,Crowbar,Common,All weapons,+75% (+75% per stack) damage to enemies above 90% HP.,+75% damage to enemies above 90% HP per stack.
+focus,Focus Crystal,Common,All weapons,"+25% (+25% per stack) damage to enemies within 220 of the shooter (you, or an Engineer turret).",+25% damage to nearby enemies per stack.
+apr,Armor-Piercing Rounds,Common,All weapons,+30% (+30% per stack) damage to elites and bosses.,+30% damage to elites and bosses per stack.
+sticky,Sticky Bomb,Common,All weapons,8% (+8% per stack) chance on hit to attach a bomb that explodes for 180% damage.,+8% bomb chance per stack.
+gasoline,Gasoline,Common,All weapons,Kills explode in radius 100 for 30% (+30% per stack) kill-damage and ignite enemies for 150% (+150% per stack) kill-damage burn.,+30% explosion and +150% burn kill-damage per stack.
+tooth,Monster Tooth,Common,All weapons,Kills heal 1 HP + 1% (+1% per stack) max HP.,+1% max HP healed per kill per stack.
+steak,Bison Steak,Common,Character,+20 max HP (+20 per stack).,+20 max HP per stack.
+slug,Cautious Slug,Common,Character,+1.2 HP regen/s (+1.2 per stack).,+1.2 HP regen/s per stack.
+tougher,Tougher Times,Common,Character,"8% (+8% per stack, hyperbolic) dodge chance.",+8% dodge chance per stack (hyperbolic).
+plate,Repulsion Armor Plate,Common,Character,+4 armor (+4 per stack).,+4 armor per stack.
+pennies,Roll of Pennies,Common,Character,+15% XP gain (+15% per stack).,+15% XP gain per stack.
+mortar,Mortar Tube,Common,All weapons,9% chance on hit to lob a mortar that lands after 0.5s for 170% (+170% per stack) damage in radius 75.,+170% mortar damage per stack.
+stungren,Stun Grenade,Common,All weapons,"5% (+5% per stack, hyperbolic) chance on hit to stun non-boss enemies for 2s.",+5% stun chance per stack (hyperbolic).
+taser,Taser,Common,All weapons,7% chance on hit to root enemies for 1.5s (+0.5s per stack). Rooted enemies cannot move but still attack.,+0.5s root duration per stack.
+nugget,Meat Nugget,Common,All weapons,8% chance on hit to drop 2 meat nuggets that heal 3 (+3 per stack) HP when picked up.,+3 HP healed per nugget per stack.
+lantern,Bolstering Lantern,Common,All weapons,"+10% attack speed for each enemy within 200 of you, up to 3 (+3 per stack) enemies.",+3 counted enemies (max +30% attack speed) per stack.
+medkit,Medkit,Common,Character,"2s after getting hurt, heal 4 HP + 3% (+3% per stack) max HP.",+3% max HP healed per stack.
+barbed,Barbed Wire,Common,Character,"Every 0.5s, enemies within 130 (+15 per stack) of you take 80% (+40% per stack) base damage.",+15 radius and +40% base damage per stack.
+fireshield,Fire Shield,Common,Character,Taking a hit of at least 10% max HP releases a blast (radius 225) for 400% (+400% per stack) base damage that knocks enemies back.,+400% blast damage per stack.
+spikestrip,Spikestrip,Common,Character,Getting hurt drops spikes around you (radius 150) that slow enemies by 50% for 2s (+1s per stack). Once per second.,+1s slow duration per stack.
+bitter,Bitter Root,Common,Character,+8% max HP (+8% per stack).,+8% max HP per stack.
+opal,Oddly-shaped Opal,Common,Character,+20 armor (+20 per stack) while you have not been hurt for 4s.,+20 armor per stack.
+elixir,Power Elixir,Common,Character,Taking damage to below 25% HP consumes one Elixir and heals 75% max HP.,Each stack is one more use; one Elixir is consumed per trigger.
+watch,Delicate Watch,Common,Character,+20% damage (+20% per stack). Taking damage to below 25% HP breaks all Watches.,+20% damage per stack. All stacks break together.
+shieldgen,Personal Shield Generator,Common,Character,Gain a shield equal to 8% (+8% per stack) max HP. Shields recharge after 4s without getting hurt.,+8% max HP as shield per stack.
+topaz,Topaz Brooch,Common,Character,20% chance on kill to grant 3 (+3 per stack) temporary barrier. Barrier absorbs damage and decays over time.,+3 barrier per proc per stack.
+chronic,Chronic Expansion,Common,Character,"20% chance on kill to grant +3% damage for 7s, stacking up to 10 (+5 per stack) times. Each proc refreshes the duration.",+5 max buff stacks per stack (+15% max damage).
+warbanner,Warbanner,Common,Character,"On level up and when a boss appears, raise a banner: +30% attack speed, +10% movement speed and +15% damage for 8s (+4s per stack).",+4s banner duration per stack.
+fireworks,Bundle of Fireworks,Common,Character,"On level up and when a boss appears, launch 8 (+4 per stack) homing fireworks for 300% base damage each.",+4 fireworks per stack.
+echo,Warped Echo,Common,Character,"Every 15s, the next hit you take is reduced by 10% and split into 3 hits over 1s.",Extra stacks have no effect.
+savings,Life Savings,Common,Character,Gain 1 (+1 per stack) gold every 3s. Scales with time.,+1 gold every 3s per stack.
+rustedkey,Rusted Key,Common,Character,"When a boss dies, one Key is consumed to open a hidden cache: 1 item (80% Common / 20% Uncommon).",Each stack opens one cache; one Key is consumed per boss kill.
+hoof,Paul's Goat Hoof,Common,Character,+5% movement speed (+5% per stack).,+5% movement speed per stack.
+energydrink,Energy Drink,Common,Character,"After moving for 1s without stopping, gain +8% (+8% per stack) movement speed.",+8% movement speed per stack.
+mocha,Mocha,Common,Character,+7.5% attack speed and +2.5% movement speed (+7.5% and +2.5% per stack).,+7.5% attack speed and +2.5% movement speed per stack.
+fungus,Bustling Fungus,Common,Character,"After standing still for 1s, create a zone (radius 70, +30 per stack) that heals 4.5% (+2.25% per stack) max HP per second. Moving ends the zone.",+30 zone radius and +2.25% max HP healed per second per stack.
+headstompers,Headstompers,Common,Character,Dashing through enemies deals 250% (+250% per stack) base damage to each of them and stuns non-bosses for 0.5s.,+250% dash damage per stack.
+ukulele,Ukulele,Uncommon,All weapons,25% chance on hit to fire chain lightning for 80% damage to 3 (+2 per stack) targets within 200 (+40 per stack).,+2 targets and +40 chain range per stack.
+atg,AtG Missile Mk. 1,Uncommon,All weapons,10% chance on hit to fire a homing missile for 300% (+300% per stack) damage.,+300% missile damage per stack.
+wisp,Will-o'-the-wisp,Uncommon,All weapons,30% chance on kill to detonate for 250% (+200% per stack) kill-damage in radius 110.,+200% explosion kill-damage per stack.
+scythe,Harvester's Scythe,Uncommon,All weapons,+5% crit. Crits heal 3 (+1.5 per stack) HP.,+1.5 HP healed per crit per stack. The +5% crit does not stack.
+predatory,Predatory Instincts,Uncommon,All weapons,"+5% crit. Crits grant +12% attack speed for 2s, up to 3 (+2 per stack) times.",+2 max buff stacks (+24% max attack speed) per stack. The +5% crit does not stack.
+seed,Leeching Seed,Uncommon,All weapons,"Hits heal 0.6 (+0.6 per stack) HP, scaled by proc coefficient.",+0.6 HP healed per hit per stack.
+chrono,Chronobauble,Uncommon,All weapons,Hits slow enemies by 50% for 2s (+2s per stack).,+2s slow duration per stack.
+pauldron,Berzerker's Pauldron,Uncommon,All weapons,20% chance on kill to grant +35% (+35% per stack) attack speed for 2.5s (+1.5s per stack).,+35% attack speed and +1.5s duration per stack.
+kjaro,Kjaro's Band,Uncommon,All weapons,"Every 5s, the next hit blasts fire for 300% (+300% per stack) damage in radius 110 and burns.",+300% fire blast damage per stack.
+runald,Runald's Band,Uncommon,All weapons,"Every 5s, the next hit deals 200% (+200% per stack) damage in radius 125 and freezes for 1.5s (+0.75s per stack).",+200% blast damage and +0.75s freeze per stack.
+infusion,Infusion,Uncommon,All weapons,"Kills permanently grant +0.25 (+0.25 per stack) max HP, up to 40 (+40 per stack).",+0.25 max HP per kill and +40 max cap per stack.
+guillotine,Old Guillotine,Uncommon,All weapons,"Instantly kill non-boss enemies below 13% (+13% per stack, hyperbolic) HP.",+13% execute threshold per stack (hyperbolic).
+boxing,Boxing Gloves,Uncommon,All weapons,"6% (+6% per stack, hyperbolic) chance on hit to knock enemies back. Bosses are pushed less.",+6% knockback chance per stack (hyperbolic).
+thorn,Noxious Thorn,Uncommon,All weapons,"+10% (+10% per stack) chance on hit to bleed (adds to Tri-Tip). Kills transfer 33% (+33% per stack) of the victim's bleed, burn and poison to the nearest enemy.",+10% bleed chance and +33% debuff transfer per stack.
+toxicworm,Toxic Worm,Uncommon,All weapons,"Every 4s (divided by stacks), the next hit infects the enemy for 100% damage per second over 6s. When an infected enemy dies, the infection jumps to the nearest enemy.",Infection cooldown divided by the stack count.
+shuriken,Shuriken,Uncommon,All weapons,"Firing also throws a homing shuriken for 100% (+50% per stack) of the weapon's DPS. Holds 3 (+1 per stack) shurikens, reloading one every 3s.",+50% of DPS per shuriken and +1 shuriken held per stack.
+chargefield,Chargefield Generator,Uncommon,Character,20% chance on kill to create a lightning ring around you for 6s that deals 60% (+60% per stack) base damage every 0.5s. Each proc refreshes it and grows the ring (radius 100 up to 300).,+60% base damage per pulse per stack.
+goldengun,Golden Gun,Uncommon,Character,"+1% (+1% per stack) damage per level, up to +40%.","+1% damage per level per stack, up to +40% total."
+energycell,Energy Cell,Uncommon,Character,Up to +40% (+40% per stack) attack speed as HP drops from 50% to 10%.,+40% max attack speed per stack.
+heart,Guardian's Heart,Uncommon,Character,Gain 30 (+30 per stack) shield. Shields recharge after 4s without getting hurt.,+30 shield per stack.
+kinetic,Kinetic Dampener,Uncommon,Character,"Gain a shield equal to 8% max HP. When your shield breaks, release a pulse (radius 250) that stuns for 1.5s and deals 100% base damage + 100% (+100% per stack) of max shield.",+100% of max shield as pulse damage per stack. The 8% shield does not stack.
+razorwire,Razorwire,Uncommon,Character,Getting hurt fires razors at up to 5 (+2 per stack) enemies within 300 for 160% base damage each. Once per 0.3s.,+2 razor targets per stack.
+panicmines,Panic Mines,Uncommon,Character,Getting hurt below 50% HP drops 1 (+1 per stack) mines around you (once per 3s). Mines explode on contact for 500% base damage in radius 100.,+1 mine per trigger per stack.
+timekeeper,Time Keeper's Secret,Uncommon,Character,"Once per minute, taking damage to below 25% HP freezes all enemies for 3s (+1s per stack) and destroys enemy projectiles.",+1s freeze duration per stack.
+transmitter,Unstable Transmitter,Uncommon,Character,"Taking damage to below 25% HP grants a barrier of 25% max HP and blasts enemies within 250 away, bleeding them for 300% (+300% per stack) base damage. Recharges every 30s.",+300% bleed base damage per stack.
+ignition,Ignition Tank,Uncommon,Character,Burn damage +150% (+150% per stack).,+150% burn damage per stack.
+deathmark,Death Mark,Uncommon,Character,"Enemies with 3 or more different debuffs (bleed, burn, poison, slow, stun, root...) take +50% (+25% per stack) damage from all sources.",+25% damage taken by marked enemies per stack.
+ghor,Ghor's Tome,Uncommon,Character,Kills have a 1% (+1% per stack) chance to drop a treasure worth 10 gold. Scales with time.,+1% treasure chance per stack.
+smartshopper,Smart Shopper,Uncommon,Character,+25% (+25% per stack) gold from kills.,+25% gold from kills per stack.
+compulsion,Collector's Compulsion,Uncommon,Character,"Every 20 kills grants +3% damage and attack speed for 20s, up to 3 (+3 per stack) times.",+3 max buff stacks (+9% max damage and attack speed) per stack.
+salestar,Sale Star,Uncommon,Character,Picked up items have a 10% (+10% per stack) chance to come with an extra copy.,+10% extra copy chance per stack.
+chancedoll,Chance Doll,Uncommon,Character,Dropped Common items have a 15% (+15% per stack) chance to be Uncommon instead.,+15% upgrade chance per stack.
+shipping,Shipping Request Form,Uncommon,Character,"Every 60s, receive a delivery of 1 item (+1 per 2 additional stacks).",+1 item per delivery for every 2 additional stacks.
+squid,Squid Polyp,Uncommon,Character,"Every 60s, summon a Squid Turret for 30s that shoots 2 (+2 per stack) times per second for 120% base damage.",+2 shots per second per stack.
+feather,Hopoo Feather,Uncommon,Character,+1 (+1 per stack) dash charge.,+1 dash charge per stack.
+quail,Wax Quail,Uncommon,Character,Dashes travel 13% (+13% per stack) farther.,+13% dash distance per stack.
+whip,Red Whip,Uncommon,Character,+10% (+10% per stack) movement speed while you have not been hurt for 2s.,+10% movement speed per stack.
+buckler,Rose Buckler,Uncommon,Character,+30 armor (+30 per stack) while moving.,+30 armor per stack.
+harpoon,Hunter's Harpoon,Uncommon,Character,"Kills grant +40% movement speed, fading over 1s (+0.5s per stack). Triggers at most once every 3s.",+0.5s buff duration per stack.
+stealthkit,Old War Stealthkit,Uncommon,Character,Falling below 25% HP makes you invisible and grants +13% movement speed for 5s: enemies lose track of you and stop attacking. Recharges every 30s (-50% per stack).,Recharge time halved per stack.
+jetpack,Rusty Jetpack,Uncommon,Character,Dash recharges 7% (+7% per stack) faster and travels 3% (+3% per stack) farther.,+7% dash recharge speed and +3% dash distance per stack.
+antlers,Elusive Antlers,Uncommon,Character,"Every 10s (-10% per stack), an energy orb appears near you. Picking it up grants +4% movement speed for 12s, up to 3 (+3 per stack) times.",Orb interval -10% (multiplicative) and +3 max buff stacks per stack.
+faraday,Faraday Spur,Uncommon,Character,"Moving builds charge (full after 4s), granting up to +13% movement speed. Dashing at 25%+ charge spends it on a discharge for up to 400% (+280% per stack) base damage in radius 100-250.",+280% max discharge base damage per stack.
+fuelcell,Fuel Cell,Uncommon,Character,"Hold 1 (+1 per stack) extra equipment charge. Equipment cooldowns -15% (-15% per stack, multiplicative).",+1 equipment charge and -15% equipment cooldown (multiplicative) per stack.
+behemoth,Brilliant Behemoth,Legendary,All weapons,All hits explode for 60% damage in radius 75 (+45 per stack).,+45 explosion radius per stack.
+dagger,Ceremonial Dagger,Legendary,All weapons,Kills fire a homing dagger for 150% (+150% per stack) kill-damage.,+150% dagger kill-damage per stack.
+justice,Shattering Justice,Legendary,All weapons,Hits shatter armor: enemies take +30% damage from all sources for 6s (+6s per stack).,+6s armor shatter duration per stack.
+scope,Laser Scope,Legendary,All weapons,+10% crit. Crits deal +100% (+100% per stack) damage.,+100% crit damage per stack. The +10% crit does not stack.
+magazine,Backup Magazine,Legendary,All weapons,Every shot is fired as 2 (+1 per stack) parallel copies at full damage. Arc Coil: fires 2 (+1 per stack) bolts at different enemies.,+1 parallel copy per shot (Arc Coil: +1 bolt) per stack.
+clover,57 Leaf Clover,Legendary,Character,All chance-based item effects roll 1 (+1 per stack) extra time.,+1 extra roll for chance effects per stack.
+teslacoil,Unstable Tesla Coil,Legendary,Character,Every 0.5s zaps up to 3 (+2 per stack) enemies within 250.,+2 zap targets per stack.
+rack,Rejuvenation Rack,Legendary,Character,+100% (+100% per stack) healing.,+100% healing per stack.
+meathook,Sentient Meat Hook,Legendary,All weapons,"20% (+20% per stack, hyperbolic) chance on hit to fire homing hooks at up to 10 (+5 per stack) enemies within 300 for 100% damage each.",+20% hook chance (hyperbolic) and +5 hook targets per stack.
+boomerang,Electric Boomerang,Legendary,All weapons,"15% chance on hit to throw a piercing boomerang that flies out and returns, dealing 120% (+120% per stack) damage and stunning for 0.5s.",+120% boomerang damage per stack.
+runiclens,Runic Lens,Legendary,All weapons,"Chance on hit to call a meteor for 800% (+800% per stack) damage in radius 110. The chance grows with damage per hit: 2% per 10 damage, up to 25%.",+800% meteor damage per stack.
+lopper,The Ol' Lopper,Legendary,All weapons,"Hits on enemies below 15% (+5% per stack, up to 35%) HP always crit, bosses included.","+5% HP threshold per stack, up to 35%."
+telescope,Telescopic Sight,Legendary,All weapons,"1% (+0.5% per stack, up to 3%) chance on hit to instantly kill a non-boss enemy.","+0.5% instant kill chance per stack, up to 3%."
+permafrost,Permafrost,Legendary,All weapons,"6% (+3% per stack) chance on hit to freeze enemies for 1.5s, then slow them for 3s.",+3% freeze chance per stack.
+plasmachain,Plasma Chain,Legendary,All weapons,"15% chance on hit to tether the enemy for 4s, dealing 150% damage per second. Up to 1 (+1 per stack) tethers per weapon.",+1 tether per weapon per stack.
+thallium,Thallium,Legendary,All weapons,10% chance on hit to poison the enemy for 500% (+250% per stack) damage over 3s and slow it.,+250% poison damage per stack.
+atg2,AtG Missile Mk. 2,Legendary,All weapons,7% (+7% per stack) chance on hit to fire 3 homing missiles for 300% damage each.,+7% missile chance per stack.
+hyperthreader,Hyper-Threader,Legendary,All weapons,Every shot also fires a laser for 40% damage that bounces to 2 (+1 per stack) enemies.,+1 laser bounce per stack.
+heavencracker,Heaven Cracker,Legendary,All weapons,"Every 4th shot (-1 per stack, down to every shot) pierces all enemies. Arc Coil: +3 chains instead.","Pierces 1 shot sooner per stack, down to every shot."
+laserturbine,Laser Turbine,Legendary,All weapons,"Firing charges the turbine (full after 8s of firing, +50% charge rate per stack). When full, fires a laser across the map for 500% of the weapon's DPS.",+50% turbine charge rate per stack.
+resonance,Resonance Disc,Legendary,All weapons,"Kills charge the disc (resets after 7s without a kill). At 4 charges, launch a disc that pierces all enemies for 150% (+150% per stack) of the weapon's DPS.",+150% of DPS as disc damage per stack.
+scorpion,Symbiotic Scorpion,Legendary,All weapons,"Hits permanently make the enemy take +1% (+1% per stack) more damage, up to +50%. Scaled by proc coefficient.","+1% damage taken per hit per stack, up to +50%."
+frostrelic,Frost Relic,Legendary,Character,20% chance on kill to create an ice storm around you for 3s that slows enemies and deals 150% (+150% per stack) base damage per second. Each proc refreshes it and grows the storm (radius 80 up to 260).,+150% base damage per second per stack.
+hitlist,The Hit List,Legendary,Character,"Every 10s, mark 1 (+1 per stack) random enemy. Killing a marked enemy permanently grants +1% damage for the rest of the run (max +20%, +10% per stack).",+1 marked enemy and +10% max damage per stack.
+dio,Dio's Best Friend,Legendary,Character,"On death, consume this item and revive at 40% HP with 2s of invulnerability.",Each stack is one more revive.
+aegis,Aegis,Legendary,Character,Healing past full HP grants a barrier for 50% (+50% per stack) of the overheal.,+50% of overheal as barrier per stack.
+microbots,Defensive Microbots,Legendary,Character,"Every 0.5s, shoot down 1 (+1 per stack) enemy projectile within 220.",+1 projectile shot down per stack.
+mask,Happiest Mask,Legendary,Character,Kills have a 7% chance to summon a ghost for 15s that hunts enemies for 300% (+300% per stack) base damage per second. Up to 6 ghosts.,+300% ghost base damage per second per stack.
+deskplant,Interstellar Desk Plant,Legendary,Character,Kills have a 10% chance to plant a healing fruit that heals 2% (+1% per stack) max HP per second for 5s. Up to 3 plants at once.,+1% max HP healed per second per stack.
+brainstalks,Brainstalks,Legendary,Character,Killing an elite or boss makes all weapons fire twice as fast for 4s (+4s per stack).,+4s buff duration per stack.
+whispers,Sonorous Whispers,Legendary,Character,Elites and bosses drop 1 (+1 per stack) extra item.,+1 extra item per elite or boss per stack.
+spareparts,Spare Drone Parts,Legendary,Character,"Gain Col. Droneman, a drone that fires 3 times per second for 120% base damage. All allies attack 50% (+50% per stack) faster.",+50% ally attack speed per stack. One drone only.
+nkuhana,N'kuhana's Opinion,Legendary,Character,"Store 100% of healing as soul energy. At 10% max HP worth of energy, fire a skull at the nearest enemy for 250% (+250% per stack) of the stored energy, scaled by damage and stage.",+250% of stored energy as skull damage per stack.
+warbonds,War Bonds,Legendary,Character,"When a boss spawns, bombard it with 5 (+5 per stack) missiles that each deal 2.5% of its max HP.",+5 missiles per stack.
+icbm,Pocket I.C.B.M.,Legendary,Character,"Missile items (AtG Mk. 1 and Mk. 2, Plasma Shrimp, War Bonds) fire 2 extra missiles. +50% missile damage per extra stack.",First stack: +2 missiles. Each extra stack: +50% missile damage.
+oldbox,Old Box,Legendary,Character,Taking damage to below 25% (+10% per stack) HP makes non-boss enemies within 400 flee in fear for 3s. Recharges every 15s.,+10% HP threshold per stack.
+afterburner,Hardlight Afterburner,Legendary,Character,+2 (+2 per stack) dash charges. Dash cooldown -11%.,+2 dash charges per stack. The -11% dash cooldown does not stack.
+headset,H3AD-5T v2,Legendary,Character,Dashes end in a kinetic slam (radius 190) for 1000% (+1000% per stack) base damage that stuns non-bosses for 1s. Recharges every 10s (-50% per stack).,+1000% slam base damage and recharge time halved per stack.
+boots,Fireman's Boots,Legendary,Character,Moving leaves a trail of fire that burns enemies for 150% (+100% per stack) base damage per second.,+100% fire trail base damage per second per stack.
+bottledchaos,Bottled Chaos,Legendary,Character,Using equipment also triggers 1 (+1 per stack) random other equipment effect.,+1 random equipment effect per use per stack.
+glass,Shaped Glass,Lunar,Character,"+100% damage (+100% per stack). -50% max HP (-50% per stack, multiplicative).",+100% damage and max HP halved per stack.
+crown,Brittle Crown,Lunar,Character,Hits have a 30% chance (x proc) to give 1 (+1 per stack) XP. Getting hit loses 3 (+3 per stack) XP.,+1 XP gained per hit and +3 XP lost per hit taken per stack.
+corpsebloom,Corpsebloom,Lunar,Character,"+100% healing (+100% per stack). All healing is applied over time, at most 10% max HP per second (-50% per stack).",+100% healing and the per-second healing cap halved per stack.
+ego,Egocentrism,Lunar,Character,"Every 3s (divided by stacks), gain an orbiting bomb (max 3, +1 per stack) that detonates on contact for 360% base damage. Every 60s, one random other equipped item turns into Egocentrism.",Bomb interval divided by the stack count and +1 max bomb per stack.
+eulogy,Eulogy Zero,Lunar,Character,Dropped items have a 5% (+5% per stack) chance to be Lunar instead.,+5% Lunar chance per stack.
+lightflux,Light Flux Pauldron,Lunar,Character,Item cooldowns -50% (multiplicative per stack). Attack speed -35% (multiplicative per stack).,Item cooldowns -50% and attack speed -35% per stack (multiplicative).
+stoneflux,Stone Flux Pauldron,Lunar,Character,+100% max HP (+100% per stack). -30% movement speed (multiplicative per stack).,+100% max HP and -30% movement speed (multiplicative) per stack.
+purity,Purity,Lunar,Character,"Item cooldowns -2s (+1s per stack, minimum 0.5s). Chance effects roll 1 (+1 per stack) extra time for an unfavorable outcome.",-1s more item cooldown and +1 unfavorable roll per stack.
+transcendence,Transcendence,Lunar,Character,Convert all but 1 max HP into shield and gain +50% (+25% per stack) max HP. Shields recharge after 4s without getting hurt.,+25% max HP per stack.
+rachis,Mercurial Rachis,Lunar,Character,+50% damage (+50% per stack). Enemies also deal +50% (+50% per stack) damage.,+50% damage dealt and +50% damage taken per stack.
+strides,Strides of Heresy,Lunar,Character,"Your dash becomes Shadowfade: turn intangible for 3s (+1.5s per stack) with +10% movement speed, healing 18% (+18% per stack) max HP over the duration. You cannot attack while faded. Cooldown at least 6s.",+1.5s Shadowfade duration and +18% max HP healed per stack.
+knurl,Titanic Knurl,Boss,Character,+40 max HP and +1.6 HP regen/s (+40 and +1.6 per stack).,+40 max HP and +1.6 HP regen/s per stack.
+pearl,Pearl,Boss,Character,+10% max HP (+10% per stack).,+10% max HP per stack.
+irradiant,Irradiant Pearl,Boss,Character,"+10% (+10% per stack) max HP, regen, armor, damage and attack speed.","+10% max HP, regen, armor, damage and attack speed per stack."
+gland,Queen's Gland,Boss,Character,Summon 1 (+1 per stack) permanent Beetle Guard that hunts enemies for 400% base damage per second.,+1 Beetle Guard per stack.
+empathy,Empathy Cores,Boss,Character,Summon 2 permanent Solus Probes that fire twice per second for 100% (+100% per stack) base damage.,+100% probe base damage per stack. Always 2 probes.
+nucleus,Defense Nucleus,Boss,Character,Killing an elite or boss summons a permanent Alpha Construct that fires twice per second for 150% (+150% per stack) base damage. Up to 4.,+150% construct base damage per stack. Up to 4 constructs.
+genesis,Genesis Loop,Boss,Character,Taking damage to below 25% HP releases a nova (radius 450) for 6000% base damage. Recharges every 30s (divided by stacks).,Recharge time divided by the stack count.
+planula,Planula,Boss,Character,Heal 5 (+5 per stack) HP whenever you take damage.,+5 HP healed per hit taken per stack.
+urn,Mired Urn,Boss,Character,"Tether the nearest 1 (+1 per stack) enemies within 220, draining 100% base damage per second and healing you for the same amount.",+1 tethered enemy per stack.
+perforatorC,Charged Perforator,Boss,All weapons,10% chance on hit to strike the enemy with lightning for 500% (+500% per stack) damage in radius 50.,+500% lightning damage per stack.
+perforatorM,Molten Perforator,Boss,All weapons,10% chance on hit to rain 3 magma balls around the enemy for 300% (+300% per stack) damage each.,+300% damage per magma ball per stack.
+shatterspleen,Shatterspleen,Boss,All weapons,+5% crit. Crits bleed for 240% damage. Bleeding enemies killed by this weapon explode for 400% (+400% per stack) kill-damage + 15% of their max HP.,+400% explosion kill-damage per stack. The +5% crit does not stack.
+ifrit,Ifrit's Horn,Boss,All weapons,8% chance on hit to incinerate all enemies within 450 of you for 220% (+220% per stack) damage and set them on fire.,+220% incinerate damage per stack.
+witness,Burning Witness,Boss,Character,"Kills grant +3% (+2% per stack) movement speed, +10% damage and a fire trail that burns for 300% base damage per second, for 6s.","+2% movement speed per stack. Damage, fire trail and duration do not stack."
+disciple,Little Disciple,Boss,Character,"While moving, fire a tracking wisp for 300% (+300% per stack) base damage every 1.6s. Fires faster with higher movement speed.",+300% wisp base damage per stack.
+needletick,Needletick,Void,"All weapons, corrupts tritip",10% (+10% per stack) chance on hit to collapse the enemy after 1s for 400% damage. Corrupts all Tri-Tip Daggers.,+10% collapse chance per stack.
+lostseer,Lost Seer's Lenses,Void,"All weapons, corrupts glasses",0.5% (+0.5% per stack) chance on hit to instantly kill a non-boss enemy. Corrupts all Lens-Maker's Glasses.,+0.5% instant kill chance per stack.
+safer,Safer Spaces,Void,"Character, corrupts tougher","Block one hit completely. Recharges after 15s (-10% per stack, hyperbolic). Corrupts all Tougher Times.",Recharge time -10% per stack (hyperbolic).
+encrusted,Encrusted Key,Void,"Character, corrupts rustedkey","When a boss dies, one Key is consumed to open a hidden cache: 1 item (60% Common / 30% Uncommon / 10% Legendary). Corrupts all Rusted Keys.",Each stack opens one cache; one Key is consumed per boss kill.
+polylute,Polylute,Void,"All weapons, corrupts ukulele",25% chance on hit to strike the enemy with lightning 3 (+3 per stack) times for 60% damage each. Corrupts all Ukuleles.,+3 lightning strikes per stack.
+tentabauble,Tentabauble,Void,"All weapons, corrupts chrono",5% (+5% per stack) chance on hit to root the enemy for 1s (+1s per stack). Corrupts all Chronobaubles.,+5% root chance and +1s root duration per stack.
+shrimp,Plasma Shrimp,Void,"All weapons, corrupts atg","Gain a shield of 10% max HP (does not stack). While you have shield, hits (x proc) fire a homing missile for 40% (+40% per stack) damage. Corrupts all AtG Missile Mk. 1s.",+40% missile damage per stack. The 10% shield does not stack.
+singularity,Singularity Band,Void,"All weapons, corrupts runald","Every 10s, the next hit creates a black hole (radius 140) that pulls enemies in for 5s, then collapses for 100% (+100% per stack) damage. Corrupts all Runald's Bands.",+100% collapse damage per stack.
+voidsent,Voidsent Flame,Void,"All weapons, corrupts wisp",Hits on enemies at full HP erupt in a pillar for 260% (+156% per stack) damage in radius 110. Corrupts all Will-o'-the-wisps.,+156% pillar damage per stack.
+benthic,Benthic Bloom,Void,"Character, corrupts clover","Every 60s, upgrade 3 (+3 per stack) random equipped Common or Uncommon items to the next tier. Corrupts all 57 Leaf Clovers.",+3 upgraded items per stack.
+larva,Pluripotent Larva,Void,"Character, corrupts dio","On death, consume this item and revive at 40% HP with 2s of invulnerability, but every item with a Void counterpart is corrupted. Corrupts all Dio's Best Friends.",Each stack is one more revive.
+weeping,Weeping Fungus,Void,"Character, corrupts fungus",Heal 2% (+2% per stack) max HP per second while moving. Corrupts all Bustling Fungi.,+2% max HP healed per second per stack.
+fruit,Foreign Fruit,Equipment,Equipment (Shift),Heal 50% of your max HP.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+dml,Disposable Missile Launcher,Equipment,Equipment (Shift),Fire a swarm of 12 homing missiles for 300% base damage each.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+capacitor,Royal Capacitor,Equipment,Equipment (Shift),"Call lightning on the enemy nearest the cursor (or the toughest one on screen) for 3000% base damage, stunning enemies within 120 for 1.5s.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+sawmerang,Sawmerang,Equipment,Equipment (Shift),"Throw 3 saw blades toward the cursor. They pierce everything for 400% base damage, stun, and hit again on the way back.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+cube,Primordial Cube,Equipment,Equipment (Shift),"Open a black hole at the cursor for 6s that pulls non-boss enemies within 320 into its center, then collapses for 300% base damage.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+molotov,Molotov (6-Pack),Equipment,Equipment (Shift),Throw 6 molotovs around the cursor. Each ignites enemies for 500% base damage and leaves a fire pool burning for 200% base damage per second for 6s.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+preon,Preon Accumulator,Equipment,Equipment (Shift),"Fire a slow preon orb toward the cursor that zaps nearby enemies for 120% base damage 5 times per second, then detonates (radius 260) for 4000% base damage.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+minefield,Instant Minefield,Equipment,Equipment (Shift),Drop 7 mines around you. Each explodes on contact for 400% base damage in radius 80.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+goldbomb,Gold-plated Bomb,Equipment,Equipment (Shift),"Spend 50% of your gold on a blast (radius 260) dealing 10 damage per gold spent, scaled by your damage bonuses.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+lostdoll,Lost Doll,Equipment,Equipment (Shift),Sacrifice 25% of your current HP to hit the toughest enemy on screen for 500% of your max HP.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+elephant,Jade Elephant,Equipment,Equipment (Shift),Gain 500 armor for 5s.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+blastshower,Blast Shower,Equipment,Equipment (Shift),"Destroy all enemy projectiles and incoming blasts within 500, and interrupt nearby lasers that are charging.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+unstablewatch,Unstable Watch,Equipment,Equipment (Shift),"Stop time for 5s: enemies, their projectiles and their attacks freeze while you keep moving and shooting.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+buddy,Crudely Drawn Buddy,Equipment,Equipment (Shift),"Leave a decoy where you stand for 6s. Enemies lose track of you, go for the decoy and hold their fire.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+safelantern,Safeguard Lantern,Equipment,Equipment (Shift),Drop a lantern for 10s. Non-boss enemies within 220 of it flee from you in fear and take 20% base damage per second.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+egg,Volcanic Egg,Equipment,Equipment (Shift),Turn into an invulnerable fireball for 3s with +100% movement speed. Ramming enemies deals 500% base damage and knocks them back; ends with a blast (radius 160) for 800% base damage.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+vase,Eccentric Vase,Equipment,Equipment (Shift),Teleport toward the cursor (up to 450) and become invulnerable for 0.5s.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+amethyst,Gigantic Amethyst,Equipment,Equipment (Shift),Refill all dash charges and reset every item cooldown.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+ocular,Ocular HUD,Equipment,Equipment (Shift),+100% crit chance for 8s.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+opus,Gorag's Opus,Equipment,Equipment (Shift),"Frenzy for 7s: you and your allies gain +100% attack speed, and you gain +50% movement speed.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+leech,Super Massive Leech,Equipment,Equipment (Shift),"For 8s, heal for 20% of all damage you deal.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+backup,The Back-up,Equipment,Equipment (Shift),Call 4 strike drones for 25s. Each fires 3 times per second for 120% base damage.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+jar,Jar of Souls,Equipment,Equipment (Shift),"For every non-boss enemy on screen (up to 10), summon a ghost for 10s that hunts enemies for 300% base damage per second.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+brooch,Captain's Brooch,Equipment,Equipment (Shift),Call down a chest next to you. It still has to be paid for.,Does not stack: one equipment slot. Fuel Cell adds extra charges.
+meteorite,Glowing Meteorite,Equipment (Lunar),Equipment (Shift),"Lunar. For 8s meteors rain on the screen, each blasting everything in radius 80 for 600% base damage. They hurt you too (15% max HP per hit); their landing spots are marked.",Does not stack: one equipment slot. Fuel Cell adds extra charges.
+tonic,Spinel Tonic,Equipment (Lunar),Equipment (Shift),"Lunar. For 20s: +100% damage, +70% attack speed, +20 armor, +50% max HP, +300% regen, +30% movement speed. When it wears off, 20% chance of a permanent Tonic Affliction: -5% to all stats (stacks).",Does not stack: one equipment slot. Fuel Cell adds extra charges.

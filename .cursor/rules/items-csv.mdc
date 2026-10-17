@@ -1,0 +1,36 @@
+---
+description: Items come from the Google Sheet item table; keep js/data.js and items.csv in sync with it
+globs: js/data.js
+alwaysApply: false
+---
+
+# Item table
+
+The source of truth for items is the Google Sheet:
+https://docs.google.com/spreadsheets/d/1uPRXiHfty9kSLOXt1RiWTKBP9hps7g4SHuq4Qchq1eo/edit
+Columns: id, name, tier, scope, description, stacking. Anyone with the link can edit it; update it
+through the browser tool as described in `docs/items.md` ("Updating the sheet").
+
+When the user says the sheet changed (or before item work), list the differences:
+
+```bash
+node tools/diff_items_sheet.js
+```
+
+Then apply each difference to `ITEMS` in `js/data.js` (`desc` = description, `stack` = stacking) and
+implement any changed behavior in the game code, so the game does what the sheet says.
+
+`items.csv` (project root) is generated from `js/data.js`; never edit it by hand. After any item change:
+
+```bash
+node tools/export_items_csv.js
+```
+
+If the game side changed something the sheet doesn't have yet (a code fix, a new item), update the
+sheet and rerun `node tools/diff_items_sheet.js` until it reports a match.
+
+Every non-equipment item needs a `stack` field: a self-contained sentence on how extra copies behave.
+
+```js
+{ id: 'dio', name: "Dio's Best Friend", ..., stack: 'Each stack is one more revive.', desc: '...' },
+```
